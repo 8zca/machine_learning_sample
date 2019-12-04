@@ -1,0 +1,7 @@
+/text-class/site-packages/
+/review/vendor/
+/review/.bundle/
+/Gemfile.lock
+*.csv
+*.png
+
