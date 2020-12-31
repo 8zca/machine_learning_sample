@@ -13,7 +13,7 @@ GEM
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.4.0)
     minitest (5.13.0)
-    nokogiri (1.10.5)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     rubyzip (2.0.0)
     selenium-webdriver (3.142.6)
